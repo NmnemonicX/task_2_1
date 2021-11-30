@@ -1,0 +1,17 @@
+{
+  "name": "task2-1",
+  "version": "1.0.0",
+  "description": "task2-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cmd1": "runfile.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
